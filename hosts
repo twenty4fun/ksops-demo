@@ -38,6 +38,7 @@ ff02::3 ip6-allhosts
 # http://stevenblack.com
 
 #Blocking Facebook Domains
+0.0.0.0 myself-bbs.com
 0.0.0.0 apps.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 facebook.com
